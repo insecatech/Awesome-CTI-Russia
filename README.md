@@ -9,6 +9,7 @@
   * [2024](#2024)
   * [2023](#2023)
   * [2022](#2022)
+* [Подкасты](#подкасты)
 * [Курсы](#курсы)
 * [Отчёты](#отчёты)
 * [Инструменты](#инструменты)
@@ -22,6 +23,8 @@
 *	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
 ### 2023
 ### 2022
+*	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
+## Подкасты
 ## Курсы
 ## Отчёты
 ## Инструменты
