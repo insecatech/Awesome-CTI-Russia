@@ -26,6 +26,9 @@
 *	[Современная история развития cyberthreat intelligence и практика применения. Никита Назаров, Лаборатория Касперского](https://www.youtube.com/watch?v=X9Clsb_M95U&list=PL-PDZMPQHOz9__o8K1lMAlQXr1RjXu6wS&index=91&ab_channel=PositiveEvents)
 *	[Российская практика киберразведки (Threat Intelligence)? AM Live](https://www.youtube.com/watch?v=xvSzU4Hycoc&ab_channel=AMLive)
 *	[Самое слабое звено: разбираемся в атаках на цепочки поставок. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=twaJcdyWyNw&list=PL0xCSYnG_iTtJe2V6PQqamBF73n7-f1Nr&index=4&ab_channel=OFFZONEMOSCOW)
+*	[Как отличать хорошие киберразведданные от плохих. Олег Скулкин, BI.ZONE](https://vk.com/video/@forumsoc?z=video-221945088_456239154%2Fpl_-221945088_2)
+*	[Выходим за периметр: угрозы извне, о которых лучше узнать заранее. Александр Вураско, Солар](https://vk.com/video/@forumsoc?z=video-221945088_456239153%2Fclub221945088%2Fpl_-221945088_2)
+*	[Как киберразведка помогает SOC. Александр Ненахов, Инфосистемы Джет](https://vk.com/video/@forumsoc?z=video-221945088_456239155%2Fpl_-221945088_2)
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
 ## Подкасты
