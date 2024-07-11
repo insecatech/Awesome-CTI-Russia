@@ -15,6 +15,7 @@
 ## Каналы
 ## Статьи
 ## Доклады
+*	[2024]	[Как построить threat intelligence program в своей организации](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
 ## Курсы
 ## Отчёты
 ## Инструменты
