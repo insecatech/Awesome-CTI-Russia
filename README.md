@@ -23,10 +23,15 @@
 *	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
 ### 2023
 *	[CyberCamp 2023. Бой с тенью: как киберразведка помогает сократить время реагирования на инцидент. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=CutAmBVwON4&list=PLVb9C2cD47iwEygcNH8SzWZ95aD2sYTlX&index=17&ab_channel=%D0%98%D0%BD%D1%84%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%D0%94%D0%B6%D0%B5%D1%82)
+*	[Современная история развития cyberthreat intelligence и практика применения. Никита Назаров, Лаборатория Касперского](https://www.youtube.com/watch?v=X9Clsb_M95U&list=PL-PDZMPQHOz9__o8K1lMAlQXr1RjXu6wS&index=91&ab_channel=PositiveEvents)
+*	[Российская практика киберразведки (Threat Intelligence)? AM Live](https://www.youtube.com/watch?v=xvSzU4Hycoc&ab_channel=AMLive)
+*	[Самое слабое звено: разбираемся в атаках на цепочки поставок. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=twaJcdyWyNw&list=PL0xCSYnG_iTtJe2V6PQqamBF73n7-f1Nr&index=4&ab_channel=OFFZONEMOSCOW)
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
 ## Подкасты
 ## Курсы
+*	[Inseca. Threat Intelligence 2.0. Практический курс по киберразведке](https://inseca.tech/threat-intelligence-training)
+*	[F.A.C.C.T. Анализ данных киберразведки](https://www.facct.ru/cybersecurity-education/technical-training-programs/threat-intelligence-analyst/)
 ## Отчёты
 ## Инструменты
 ### Потоки данных об угрозах (Feeds)
