@@ -22,6 +22,7 @@
 ### 2024
 *	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
 ### 2023
+*	[CyberCamp 2023. Бой с тенью: как киберразведка помогает сократить время реагирования на инцидент. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=CutAmBVwON4&list=PLVb9C2cD47iwEygcNH8SzWZ95aD2sYTlX&index=17&ab_channel=%D0%98%D0%BD%D1%84%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%D0%94%D0%B6%D0%B5%D1%82)
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
 ## Подкасты
