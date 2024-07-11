@@ -6,6 +6,9 @@
 * [Каналы](#каналы)
 * [Статьи](#статьи)
 * [Доклады](#доклады)
+  * [2024](#2024)
+  * [2023](#2023)
+  * [2022](#2022)
 * [Курсы](#курсы)
 * [Отчёты](#отчёты)
 * [Инструменты](#инструменты)
@@ -15,7 +18,10 @@
 ## Каналы
 ## Статьи
 ## Доклады
-*	[2024]	[Как построить threat intelligence program в своей организации](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
+### 2024
+*	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
+### 2023
+### 2022
 ## Курсы
 ## Отчёты
 ## Инструменты
