@@ -13,7 +13,7 @@
 * [Курсы](#курсы)
 * [Отчёты](#отчёты)
 * [Инструменты](#инструменты)
-  * [Потоки данных об угрозах](#Потоки-данных-об-угрозах).
+* [Потоки данных об угрозах](#Потоки-данных-об-угрозах).
 
 
 ## Каналы
@@ -42,65 +42,50 @@
 *	[F.A.C.C.T. Анализ данных киберразведки](https://www.facct.ru/cybersecurity-education/technical-training-programs/threat-intelligence-analyst/)
 ## Отчёты
 ## Инструменты
-### Потоки данных об угрозах
+## Анализ ВПО, песочницы
+* [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+* [MalShare.com](https://malshare.com/)
+* [MalwareBazaar](https://bazaar.abuse.ch/)
+## Потоки данных об угрозах
 * [AbuseIPDB](https://www.abuseipdb.com/)
-* Binary Defense IP Banlist
-* Blackkite
-* Blocklist.de
-* Botvrij
-* CI Army List
-* Circl
-* Cisco Umbrella
-* Cyber Cure free intelligence feeds
-* Cybercrime-tracker
-* Cyware Threat Intelligence Feeds
-* Focsec.com
-* Dan.me.uk
-* DigitalSide Threat-Intel
-* Disposable Email Domains
-* Emerging Threats Firewall Rules
-* Emerging Threats IDS Rules
-* ExoneraTor
-* Exploitalert
-* FastIntercept
-* Feodo Tracker
-* FireHOL IP Lists
-* FraudGuard
-* HoneyDB
-* Icewater
-* InQuest Labs
-* I-Blocklist
-* IPsum
-* James Brine Threat Intelligence Feeds
-* Kaspersky Threat Data Feeds
-* Majestic Million
-* Maldatabase
-* Malpedia
-* MalShare.com
-* Maltiverse
-* MalwareBazaar
-* Malware Domain List
-* Mrlooquer
-* NoThink!
-* OTX AlienVault
-* OpenPhish Feeds
-* 0xSI_f33d
-* PhishTank
-* RST Cloud Threat Intel Feed
-* Rutgers Blacklisted IPs
-* SANS ICS Suspicious Domains
-* SecurityScorecard IoCs
-* Neo23x0
-* The Spamhaus project
-* Spur
-* SSL Blacklist
-* Talos
-* threatfeeds.io
-* threatfox.abuse.ch
-* Threat Jammer
-* Viriback
-* WSTNPHX Malware Email Addresses
-* URLhaus
-* VirusShare
-* Yara-Rules
-1st Dual Stack Threat Feed by MrLooquer
+* [Binary Defense IP Banlist](https://www.binarydefense.com/banlist.txt)
+* [Blocklist.de](https://www.blocklist.de/en/index.html)
+* [Botvrij](https://www.botvrij.eu/)
+* [CI Army List](https://cinsscore.com/list/ci-badguys.txt)
+* [Circl](https://www.circl.lu/)
+* [Cisco Umbrella](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html)
+* [Cyber Cure free intelligence feeds](https://www.cybercure.ai/)
+* [Cybercrime-tracker](https://cybercrime-tracker.net/)
+* [Cyware Threat Intelligence Feeds}(https://cyware.com/resources/threat-intel-feeds)
+* [Dan.me.uk](https://www.dan.me.uk/tornodes)
+* [DigitalSide Threat-Intel](https://osint.digitalside.it/)
+* [Disposable Email Domains](https://github.com/disposable-email-domains/disposable-email-domains)
+* [Emerging Threats Firewall Rules](https://rules.emergingthreats.net/fwrules/)
+* [Emerging Threats IDS Rules](https://rules.emergingthreats.net/blockrules/)
+* [ExoneraTor](https://metrics.torproject.org/exonerator.html)
+* [FastIntercept](https://intercept.sh/threatlists/)
+* [Feodo Tracker](https://feodotracker.abuse.ch/)
+* [FireHOL IP Lists](https://iplists.firehol.org/)
+* [FraudGuard](https://fraudguard.io/)
+* [InQuest Labs](https://labs.inquest.net/)
+* [I-Blocklist](https://www.iblocklist.com/lists)
+* [IPsum](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt)
+* [James Brine Threat Intelligence Feeds](https://jamesbrine.com.au/)
+* [Kaspersky Threat Data Feeds](https://support.kaspersky.com/datafeeds)
+* [Majestic Million](https://majestic.com/reports/majestic-million)
+* [Mrlooquer](https://iocfeed.mrlooquer.com/)
+* [NoThink!](https://www.nothink.org/)
+* [OTX AlienVault](https://otx.alienvault.com/)
+* [OpenPhish Feeds](https://openphish.com/phishing_feeds.html)
+* [0xSI_f33d](https://feed.seguranca-informatica.pt/index.php)
+* [PhishTank](https://www.phishtank.com/developer_info.php)
+* [Rutgers Blacklisted IPs](https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400)
+* [SecurityScorecard IoCs](https://github.com/securityscorecard/SSC-Threat-Intel-IoCs)
+* [The Spamhaus project](https://www.spamhaus.org/)
+* [SSL Blacklist](https://sslbl.abuse.ch/)
+* [threatfeeds.io](https://threatfeeds.io/)
+* [threatfox.abuse.ch](https://threatfox.abuse.ch/)
+* [Viriback](https://viriback.com/)
+* [WSTNPHX Malware Email Addresses](https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt)
+* [URLhaus](https://urlhaus.abuse.ch/)
+* [VirusShare](https://virusshare.com/)
