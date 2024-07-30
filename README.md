@@ -56,7 +56,7 @@
 * [Cisco Umbrella](https://s3-us-west-1.amazonaws.com/umbrella-static/index.html)
 * [Cyber Cure free intelligence feeds](https://www.cybercure.ai/)
 * [Cybercrime-tracker](https://cybercrime-tracker.net/)
-* [Cyware Threat Intelligence Feeds}(https://cyware.com/resources/threat-intel-feeds)
+* [Cyware Threat Intelligence Feeds](https://cyware.com/resources/threat-intel-feeds)
 * [Dan.me.uk](https://www.dan.me.uk/tornodes)
 * [DigitalSide Threat-Intel](https://osint.digitalside.it/)
 * [Disposable Email Domains](https://github.com/disposable-email-domains/disposable-email-domains)
