@@ -42,8 +42,8 @@
 *	[F.A.C.C.T. Анализ данных киберразведки](https://www.facct.ru/cybersecurity-education/technical-training-programs/threat-intelligence-analyst/)
 ## Отчёты
 ## Инструменты
-### Потоки данных об угрозах (Feeds)
-* AbuseIPDB (https://www.abuseipdb.com/)
+### Потоки данных об угрозах
+* [AbuseIPDB](https://www.abuseipdb.com/)
 * Binary Defense IP Banlist
 * Blackkite
 * Blocklist.de
