@@ -54,6 +54,11 @@
 ## Курсы
 *	[Inseca. Threat Intelligence 2.0. Практический курс по киберразведке](https://inseca.tech/threat-intelligence-training)
 *	[F.A.C.C.T. Анализ данных киберразведки](https://www.facct.ru/cybersecurity-education/technical-training-programs/threat-intelligence-analyst/)
+*	[Threat Intelligence Academy](https://school.threatintel.academy/courses/cti)
+*	[FOR578: Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/)
+*	[ arcX Threat Intelligence](https://arcx.io/)
+*	[MTIA - Certified Threat Intelligence Analyst](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html#)
+*	[Certified Threat Intelligence Analyst EC-Council](https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/)
 ## Отчёты
 ## Инструменты
 ## Анализ ВПО, песочницы
