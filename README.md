@@ -38,10 +38,18 @@
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
 ## Конференции
+* [CTI Meetup](https://inseca.tech/cti-meetup)
+  * [Видео с прошедших саммитов](https://www.youtube.com/watch?v=RpmA0ohSfGo) 
 * [SANS Cyber Threat Intelligence Summit](https://www.sans.org/CTI-Summit)
   * [Видео с прошедших саммитов](https://www.youtube.com/c/SANSDigitalForensics)
 * [FIRST Cyber Threat Intelligence Symposium](https://www.first.org/events/colloquia/)
   * [Видео с прошедших саммитов](https://www.youtube.com/@FIRSTdotorg)
+* [MITRE ATT&CKcon](https://attack.mitre.org/resources/attackcon/)
+  * [Видео с прошедших саммитов](https://attack.mitre.org/resources/attackcon/)
+* [SLEUTHCON](https://www.sleuthcon.com/)
+  * [Видео с прошедших саммитов](https://www.youtube.com/@sleuthcon/videos)4
+* [Recorded Future Predict Intelligence Summit](https://predict.recordedfuture.com/event/59749d39-2714-4e02-9649-d3c312b850ae/summary)
+  * [Видео с прошедших саммитов](https://fast.wistia.com/embed/channel/9qvq0t0zhc?wchannelid=9qvq0t0zhc)
 ## Подкасты
 ## Курсы
 *	[Inseca. Threat Intelligence 2.0. Практический курс по киберразведке](https://inseca.tech/threat-intelligence-training)
