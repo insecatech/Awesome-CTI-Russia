@@ -40,7 +40,6 @@
 ## Конференции
 * [SANS Cyber Threat Intelligence Summit](https://www.sans.org/CTI-Summit)
   * [Видео с прошедших саммитов](https://www.youtube.com/c/SANSDigitalForensics)
-
 * [FIRST Cyber Threat Intelligence Symposium](https://www.first.org/events/colloquia/)
   * [Видео с прошедших саммитов](https://www.youtube.com/@FIRSTdotorg)
 ## Подкасты
