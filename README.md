@@ -38,6 +38,8 @@
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
 ## Конференции
+* [SANS Cyber Threat Intelligence Summit](https://www.sans.org/CTI-Summit)
+* [Видео с прошедших саммитов](https://www.youtube.com/c/SANSDigitalForensics)
 ## Подкасты
 ## Курсы
 *	[Inseca. Threat Intelligence 2.0. Практический курс по киберразведке](https://inseca.tech/threat-intelligence-training)
