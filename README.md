@@ -17,7 +17,7 @@
 * [Потоки данных об угрозах](#Потоки-данных-об-угрозах).
 
 
-## Каналы
+## TG-каналы
 ## Статьи
 * [Threat Intelligence. Разбираемся с основными понятиями киберразведки. Xakep.ru](https://xakep.ru/2023/07/04/threat-intelligence/)
 *	[Что такое Threat Intelligence и как применять? Сбербанк](http://www.sberbank.ru/ru/person/kibrary/articles/chto_takoe_threat_intelligence)
@@ -60,11 +60,21 @@
 *	[MTIA - Certified Threat Intelligence Analyst](https://www.mosse-institute.com/certifications/mtia-certified-threat-intelligence-analyst.html#)
 *	[Certified Threat Intelligence Analyst EC-Council](https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/)
 ## Отчёты
+* [BI.ZONE Threat Zone](https://bi.zone/expertise/threat-zone/)
+* [Securelist by Kaspersky](https://securelist.ru/)
+* [Threat Intelligence Report Hub](https://t.me/aptreports)
+* [Блог F.A.C.C.T.](https://www.facct.ru/blog/)
+* [Блог PT ESC Threat Intelligence](https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/)
+* [Экспертный блог Solar 4RAYS](https://rt-solar.ru/solar-4rays/blog/)
 ## Инструменты
+* [MITRE ATT&CK](https://attack.mitre.org/)
+* [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) Репозиторий Центра защиты от китберугроз, в тором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
 ## Анализ ВПО, песочницы
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 * [MalShare.com](https://malshare.com/)
 * [MalwareBazaar](https://bazaar.abuse.ch/)
+* [ANY.RUN](https://any.run/)
+* [Hybrid Analysis](https://www.hybrid-analysis.com/)
 ## Потоки данных об угрозах
 * [AbuseIPDB](https://www.abuseipdb.com/)
 * [Binary Defense IP Banlist](https://www.binarydefense.com/banlist.txt)
