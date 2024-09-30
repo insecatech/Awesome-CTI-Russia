@@ -68,7 +68,7 @@
 * [Экспертный блог Solar 4RAYS](https://rt-solar.ru/solar-4rays/blog/)
 ## Инструменты
 * [MITRE ATT&CK](https://attack.mitre.org/)
-* [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) Репозиторий Центра защиты от китберугроз, в тором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
+* [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) Репозиторий Центра защиты от киберугроз, в котором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
 ## Анализ ВПО, песочницы
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 * [MalShare.com](https://malshare.com/)
