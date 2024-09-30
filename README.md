@@ -47,7 +47,7 @@
 * [MITRE ATT&CKcon](https://attack.mitre.org/resources/attackcon/)
   * [Видео с прошедших саммитов](https://attack.mitre.org/resources/attackcon/)
 * [SLEUTHCON](https://www.sleuthcon.com/)
-  * [Видео с прошедших саммитов](https://www.youtube.com/@sleuthcon/videos)4
+  * [Видео с прошедших саммитов](https://www.youtube.com/@sleuthcon/videos)
 * [Recorded Future Predict Intelligence Summit](https://predict.recordedfuture.com/event/59749d39-2714-4e02-9649-d3c312b850ae/summary)
   * [Видео с прошедших саммитов](https://fast.wistia.com/embed/channel/9qvq0t0zhc?wchannelid=9qvq0t0zhc)
 ## Подкасты
@@ -67,8 +67,8 @@
 * [Блог PT ESC Threat Intelligence](https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/)
 * [Экспертный блог Solar 4RAYS](https://rt-solar.ru/solar-4rays/blog/)
 ## Инструменты
-* [MITRE ATT&CK](https://attack.mitre.org/)
-* [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) Репозиторий Центра защиты от киберугроз, в котором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
+* [MITRE ATT&CK](https://attack.mitre.org/) - база знаний тактик и техник злоумышленников.
+* [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) - репозиторий Центра защиты от киберугроз, в котором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
 ## Анализ ВПО, песочницы
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 * [MalShare.com](https://malshare.com/)
