@@ -1,6 +1,6 @@
 # Awesome Cyber Threat Intelligence на русском языке
 
-Лучшие материалы по Cyber Threat Intelligence, актуальные для российского ландшафта угроз.
+_Лучшие материалы по Cyber Threat Intelligence, актуальные для российского ландшафта угроз._
 
 # Содержание
 * [Статьи](#статьи)
