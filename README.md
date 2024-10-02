@@ -3,21 +3,17 @@
 Лучшие материалы по Cyber Threat Intelligence, актуальные для российского ландшафта угроз.
 
 # Содержание
-* [Каналы](#каналы)
 * [Статьи](#статьи)
 * [Доклады](#доклады)
   * [2024](#2024)
   * [2023](#2023)
   * [2022](#2022)
 * [Конференции](#конференции) 
-* [Подкасты](#подкасты)
 * [Курсы](#курсы)
 * [Отчёты](#отчёты)
 * [Инструменты](#инструменты)
 * [Потоки данных об угрозах](#Потоки-данных-об-угрозах).
 
-
-## TG-каналы
 ## Статьи
 * [Threat Intelligence. Разбираемся с основными понятиями киберразведки. Xakep.ru](https://xakep.ru/2023/07/04/threat-intelligence/)
 *	[Что такое Threat Intelligence и как применять? Сбербанк](http://www.sberbank.ru/ru/person/kibrary/articles/chto_takoe_threat_intelligence)
@@ -25,8 +21,13 @@
 *	[Обзор рынка платформ и сервисов киберразведки (Threat Intelligence) в России и в мире. Anti-Malware](https://www.anti-malware.ru/analytics/Market_Analysis/Threat-Intelligence)
 *	[Threat Intelligence в России. CISOCLUB](https://cisoclub.ru/threat-intelligence-v-rossii/)
 ## Доклады
+* [Эфиры ThreatZone, BI.ZONE](https://bi.zone/expertise/threat-zone/)
 ### 2024
 *	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
+*	[«Лучше звоните PT ESC». Эпизод 1: погружение в Threat Intelligence](https://rutube.ru/video/927b8071a9017c53e5decf766fb85f48/?r=wd)
+*	[«Лучше звоните PT ESC». Эпизод 2: мир киберугроз с threat intelligence»](https://rutube.ru/video/1cf2244c25904cbb12a1cbb870f6ad64/?r=wd)
+*	[«Лучше звоните PT ESC». Эпизод 3: как использовать сведения об актуальных киберугрозах](https://rutube.ru/video/59fc6e3abb4f7148cfc984af1ff5917f/?r=wd)
+*	[Идем в киберразведку: как работает Threat Intelligence](https://rutube.ru/video/cd182700fdb82cd2b6825db5adff3e8c/?r=wd)
 ### 2023
 *	[CyberCamp 2023. Бой с тенью: как киберразведка помогает сократить время реагирования на инцидент. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=CutAmBVwON4&list=PLVb9C2cD47iwEygcNH8SzWZ95aD2sYTlX&index=17&ab_channel=%D0%98%D0%BD%D1%84%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%D0%94%D0%B6%D0%B5%D1%82)
 *	[Современная история развития cyberthreat intelligence и практика применения. Никита Назаров, Лаборатория Касперского](https://www.youtube.com/watch?v=X9Clsb_M95U&list=PL-PDZMPQHOz9__o8K1lMAlQXr1RjXu6wS&index=91&ab_channel=PositiveEvents)
@@ -37,6 +38,7 @@
 *	[Как киберразведка помогает SOC. Александр Ненахов, Инфосистемы Джет](https://vk.com/video/@forumsoc?z=video-221945088_456239155%2Fpl_-221945088_2)
 ### 2022
 *	[Что такое Threat Intelligence (TI, киберразведка)? AM Live](https://www.youtube.com/watch?v=u65NalvLffk&ab_channel=AMLive)
+*	[Круглый стол. Threat intelligence: как технологии сбора влияют на качество TI. Алексей Новиков](https://rutube.ru/video/b148bf600eca085948a03debabeed90c/?r=wd)
 ## Конференции
 * [CTI Meetup](https://inseca.tech/cti-meetup)
   * [Видео с прошедших саммитов](https://www.youtube.com/watch?v=RpmA0ohSfGo) 
@@ -50,7 +52,6 @@
   * [Видео с прошедших саммитов](https://www.youtube.com/@sleuthcon/videos)
 * [Recorded Future Predict Intelligence Summit](https://predict.recordedfuture.com/event/59749d39-2714-4e02-9649-d3c312b850ae/summary)
   * [Видео с прошедших саммитов](https://fast.wistia.com/embed/channel/9qvq0t0zhc?wchannelid=9qvq0t0zhc)
-## Подкасты
 ## Курсы
 *	[Inseca. Threat Intelligence 2.0. Практический курс по киберразведке](https://inseca.tech/threat-intelligence-training)
 *	[F.A.C.C.T. Анализ данных киберразведки](https://www.facct.ru/cybersecurity-education/technical-training-programs/threat-intelligence-analyst/)
@@ -66,9 +67,21 @@
 * [Блог F.A.C.C.T.](https://www.facct.ru/blog/)
 * [Блог PT ESC Threat Intelligence](https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/)
 * [Экспертный блог Solar 4RAYS](https://rt-solar.ru/solar-4rays/blog/)
+* [APT & Cyber Criminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) - коллекция отчетов вредоносных кампаний.
 ## Инструменты
 * [MITRE ATT&CK](https://attack.mitre.org/) - база знаний тактик и техник злоумышленников.
 * [MITRE Engenuity CTID](https://github.com/center-for-threat-informed-defense) - репозиторий Центра защиты от киберугроз, в котором содержится много интересных проектов, опирающихся на MITRE ATT&CK.
+* [OpenCTI](https://filigran.io/solutions/open-cti/) - быстроразвивающаяся платформа Threat Intelligence. Покрывает весь функционал современных TI-платформ, имеет множество готовых интеграций с внешними источниками и современный дизайн.
+* [CTI Blueprints](https://github.com/center-for-threat-informed-defense/cti-blueprints) - бесплатный набор шаблонов и инструментов, которые помогают аналитикам CTI создавать высококачественные отчеты.
+* [OSTrICa](https://github.com/Ptr32Void/OSTrICa) - открытый инструмент сбора данных из открытых источников.
+* [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com/dashboard/new) - глобальная база данных о киберугрозах. Объединяет большое количество участников, обрабатывает и хранит данные из большого количества внешних источников.
+* [OpenTIP Kaspersky](https://opentip.kaspersky.com/) - упрощённая версия портала Kaspersky TIP.
+* [Threatbook](https://threatbook.io/) - портал, на котором можно изучать ip-адреса и домены.
+* [Netlas](https://netlas.io/) - это портал, на котором ты можешь просканировать каждый IPv4-адрес и все известные веб-сайты и веб-приложения, используя такие протоколы, как HTTP, FTP, SMTP, POP3, IMAP, SMB / CIFS, SSH, Telnet, SQL и другие. Альтернатива Shodan.
+* [Shodan.io](Shodan.io) - широко известный сканер Интернета. Позволяет получить общедоступные данные путём направления множественных запросов.
+* [Silobreaker Alerts](https://www.silobreaker.com/alerts/weekly-cyber-round-up/) - отличный агрегатор ИБ-новостей из различных источников.
+* [Threatable.io](https://www.threatable.io/) - полностью настраиваемый агрегатор новостей.
+* [APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml#) - гугл-док, содержащий описание большинства известных APT-группировок.
 ## Анализ ВПО, песочницы
 * [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 * [MalShare.com](https://malshare.com/)
