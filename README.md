@@ -33,6 +33,7 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 *	[Практическое применение Cyber Threat Intelligence на всех этапах ее жизненного цикла. Евсиков Виталий, Inseca](https://rutube.ru/video/22d76282fca5f25b26d59090269c9500/)
 *	[Идем в киберразведку: как работает Threat Intelligence. F.A.C.C.T.](https://rutube.ru/video/cd182700fdb82cd2b6825db5adff3e8c/?r=wd)
 *	[Lost & Found: How Leaked Ransomware Builders and Source Codes Affected Global Threat Landscape. Oleg Skulkin, BI.ZONE](https://www.youtube.com/watch?v=rj-Q8ORwu2s&ab_channel=SANSDigitalForensicsandIncidentResponse)
+*	[The -=Twelve=- Chairs. Никита Назаров, Александр Кириченко, Лаборатория Касперского](https://www.youtube.com/watch?v=ykDFGnmM8Us&list=PL-PDZMPQHOz_sBCl2k60oeWeXZeeqal-S&index=136&ab_channel=PositiveEvents)
 ### 2023
 *	[CyberCamp 2023. Бой с тенью: как киберразведка помогает сократить время реагирования на инцидент. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=CutAmBVwON4&list=PLVb9C2cD47iwEygcNH8SzWZ95aD2sYTlX&index=17&ab_channel=%D0%98%D0%BD%D1%84%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%D0%94%D0%B6%D0%B5%D1%82)
 *	[Современная история развития cyberthreat intelligence и практика применения. Никита Назаров, Лаборатория Касперского](https://www.youtube.com/watch?v=X9Clsb_M95U&list=PL-PDZMPQHOz9__o8K1lMAlQXr1RjXu6wS&index=91&ab_channel=PositiveEvents)
