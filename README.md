@@ -27,7 +27,8 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 *	[«Лучше звоните PT ESC». Эпизод 1: погружение в Threat Intelligence](https://rutube.ru/video/927b8071a9017c53e5decf766fb85f48/?r=wd)
 *	[«Лучше звоните PT ESC». Эпизод 2: мир киберугроз с threat intelligence»](https://rutube.ru/video/1cf2244c25904cbb12a1cbb870f6ad64/?r=wd)
 *	[«Лучше звоните PT ESC». Эпизод 3: как использовать сведения об актуальных киберугрозах](https://rutube.ru/video/59fc6e3abb4f7148cfc984af1ff5917f/?r=wd)
-*	[Идем в киберразведку: как работает Threat Intelligence](https://rutube.ru/video/cd182700fdb82cd2b6825db5adff3e8c/?r=wd)
+*	[Практическое применение Cyber Threat Intelligence на всех этапах ее жизненного цикла. Евсиков Виталий, Inseca](https://rutube.ru/video/22d76282fca5f25b26d59090269c9500/)
+*	[Идем в киберразведку: как работает Threat Intelligence. F.A.C.C.T.](https://rutube.ru/video/cd182700fdb82cd2b6825db5adff3e8c/?r=wd)
 ### 2023
 *	[CyberCamp 2023. Бой с тенью: как киберразведка помогает сократить время реагирования на инцидент. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=CutAmBVwON4&list=PLVb9C2cD47iwEygcNH8SzWZ95aD2sYTlX&index=17&ab_channel=%D0%98%D0%BD%D1%84%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%D0%94%D0%B6%D0%B5%D1%82)
 *	[Современная история развития cyberthreat intelligence и практика применения. Никита Назаров, Лаборатория Касперского](https://www.youtube.com/watch?v=X9Clsb_M95U&list=PL-PDZMPQHOz9__o8K1lMAlQXr1RjXu6wS&index=91&ab_channel=PositiveEvents)
