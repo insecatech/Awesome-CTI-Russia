@@ -146,4 +146,3 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * [Intelligence-Driven Incident Response. Rebekah Brown, Scott J. Roberts]
 * [Mastering Cyber Intelligence: Gain comprehensive knowledge and skills to conduct threat intelligence for effective system defense. Jean Nestor M Dahj]
 * [Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CKTM Framework and Open Source Tools. Valentina Costa-Gazcón]
-* 
