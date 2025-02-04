@@ -12,7 +12,8 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * [Курсы](#курсы)
 * [Отчёты](#отчёты)
 * [Инструменты](#инструменты)
-* [Потоки данных об угрозах](#Потоки-данных-об-угрозах).
+* [Потоки данных об угрозах](#Потоки-данных-об-угрозах)
+* [Книги](#книги)
 
 ## Статьи
 * [Threat Intelligence. Разбираемся с основными понятиями киберразведки. Xakep.ru](https://xakep.ru/2023/07/04/threat-intelligence/)
@@ -138,3 +139,11 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * [WSTNPHX Malware Email Addresses](https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt)
 * [URLhaus](https://urlhaus.abuse.ch/)
 * [VirusShare](https://virusshare.com/)
+
+## Книги
+* [Operationalizing Threat Intelligence: A guide to developing and operationalizing cyber threat intelligence programs. Kyle Wilhoit, Joseph Opacki]
+* [The Intelligence Handbook, Fourth Edition. Recorded Future](https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition)
+* [Intelligence-Driven Incident Response. Rebekah Brown, Scott J. Roberts]
+* [Mastering Cyber Intelligence: Gain comprehensive knowledge and skills to conduct threat intelligence for effective system defense. Jean Nestor M Dahj]
+* [Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CKTM Framework and Open Source Tools. Valentina Costa-Gazcón]
+* 
