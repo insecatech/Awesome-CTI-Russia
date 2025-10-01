@@ -14,6 +14,7 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * [Инструменты](#инструменты)
 * [Потоки данных об угрозах](#Потоки-данных-об-угрозах)
 * [Книги](#книги)
+* [Материалы](#материалы)
 
 ## Статьи
 * [Threat Intelligence. Разбираемся с основными понятиями киберразведки. Xakep.ru](https://xakep.ru/2023/07/04/threat-intelligence/)
@@ -146,3 +147,7 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * Intelligence-Driven Incident Response. Rebekah Brown, Scott J. Roberts
 * Mastering Cyber Intelligence: Gain comprehensive knowledge and skills to conduct threat intelligence for effective system defense. Jean Nestor M Dahj
 * Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CKTM Framework and Open Source Tools. Valentina Costa-Gazcón
+
+## Материалы
+* Шаблон внутреннего стратегического TI-отчета [Пример квартального отчёта.pptx](https://github.com/user-attachments/files/22648564/default.pptx)
+
