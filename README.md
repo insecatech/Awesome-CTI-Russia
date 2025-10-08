@@ -155,5 +155,5 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * Practical Threat Intelligence and Data-Driven Threat Hunting: A Hands-on Guide to Threat Hunting with the ATT&CKTM Framework and Open Source Tools. Valentina Costa-Gazcón
 
 ## Материалы
-* Шаблон внутреннего стратегического TI-отчета [Пример стратегического отчёта](**Пример стратегического отчёта.pdf**)
+* Шаблон внутреннего стратегического TI-отчета [Пример стратегического отчёта](https://github.com/insecatech/Awesome-CTI-Russia/blob/11343e94609d282da3ecb7aa22ea6c75a99425a3/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%B0.pdf)
 
