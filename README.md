@@ -24,6 +24,11 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 *	[Threat Intelligence в России. CISOCLUB](https://cisoclub.ru/threat-intelligence-v-rossii/)
 ## Доклады
 * [Эфиры ThreatZone, BI.ZONE](https://bi.zone/expertise/threat-zone/)
+### 2025
+* [TI — «Киберразведка для бизнеса», GDS](https://gdspace.ru/podcast/2133)
+* [Threat Intelligence — не модный тренд, а критическая необходимость, GDS](https://gdspace.ru/podcast/2194)
+* [Навыки и роль аналитика киберразведки — кто нужен в TI-команде и где таких берут?, GDS](https://gdspace.ru/podcast/2268)
+* [Threat Intelligence | Intelligence-driven Incident Response, GDS](https://gdspace.ru/podcast/2269)
 ### 2024
 *	[Как построить threat intelligence program в своей организации. Олег Скулкин, BI.ZONE](https://www.youtube.com/watch?v=w35KrnTIGrU&ab_channel=PositiveEvents)
 *	[Revisiting the Indicator: Towards a Threat Intelligence Ontology. Joe Slowik](https://www.youtube.com/watch?v=8QpsmMAQOUI&ab_channel=SANSDigitalForensicsandIncidentResponse)
