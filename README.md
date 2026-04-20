@@ -18,6 +18,7 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 * [Материалы](#материалы)
 
 ## Статьи
+* [AI and the Five Phases of the Threat Intelligence Lifecycle. Mandiant](https://cloud.google.com/blog/topics/threat-intelligence/ai-five-phases-intelligence-lifecycle/)
 * [Threat Intelligence. Разбираемся с основными понятиями киберразведки. Xakep.ru](https://xakep.ru/2023/07/04/threat-intelligence/)
 *	[Что такое Threat Intelligence и как применять? Сбербанк](http://www.sberbank.ru/ru/person/kibrary/articles/chto_takoe_threat_intelligence)
 *	[Threat intelligence. Киберразведка. TAdviser](https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:Threat_intelligence_TI_%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%BA%D0%B0).
