@@ -161,3 +161,4 @@ _Лучшие материалы по Cyber Threat Intelligence, актуаль�
 
 ## Полезные ресурсы
 * [ThreatLabz ransomware notes archive](https://github.com/ThreatLabz/ransomware_notes)
+* [Collection of Cyber Threat Intelligence sources from the Deep and Dark Web](https://github.com/fastfire/deepdarkCTI)
